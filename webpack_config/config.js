@@ -35,7 +35,7 @@ const PORT = ternary(process.env.PORT, 5000)
 
 export default {
 	title: 'React-Semantic.UI-Starter',
-	publicPath: '/',
+	publicPath: '/zwap-pay-for-you/',
 	// i18n object
 	i18n,
 	// Env vars
