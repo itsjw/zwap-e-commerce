@@ -61,7 +61,7 @@ export const routes = [
 ]
 
 function getHistory () {
-	const basename = ''
+	const basename = '/zwap-pay-for-you/'
 	if (process.env.BROWSER !== true) {
 		return createMemoryHistory()
 	}
