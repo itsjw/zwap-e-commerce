@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/react-semantic.ui-starter.iml" filepath="$PROJECT_DIR$/.idea/react-semantic.ui-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zwap-e-commerce/.idea/react-semantic.ui-starter.iml" filepath="$PROJECT_DIR$/../zwap-e-commerce/.idea/react-semantic.ui-starter.iml" />
     </modules>
   </component>
 </project>

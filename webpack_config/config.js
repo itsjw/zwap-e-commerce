@@ -15,6 +15,8 @@ const BASE_API = ternary(process.env.BASE_API, '/api/v1')
 const APP_LANGUAGE = ternary(process.env.APP_LANGUAGE, 'en')
 const NODE_ENV = ternary(process.env.NODE_ENV, 'development')
 
+// var
+
 // Vars for frontend only
 const SENTRY_DSN_PUBLIC = ternary(process.env.SENTRY_DSN_PUBLIC)
 const GA_ID = ternary(process.env.GA_ID)
